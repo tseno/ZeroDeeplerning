@@ -1,1 +1,5 @@
 .ipynb_checkpoints/
+deep-learning-from-scratch-master/
+*.gz
+*.pkl
+dataset/__pycache__/
