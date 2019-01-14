@@ -3,3 +3,4 @@ deep-learning-from-scratch-master/
 *.gz
 *.pkl
 dataset/__pycache__/
+common/__pycache__
